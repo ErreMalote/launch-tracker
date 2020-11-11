@@ -1,0 +1,19 @@
+{
+    "extends": "airbnb",
+    "rules": {
+        "linebreak-style": 0,
+        "indent": "off",
+        "max-len": "off",
+        "no-case-declarations": "off",
+        "arrow-parens": "off",
+        "no-param-reassign": "off",
+        "quotes": "off",
+        "react/jsx-filename-extension": "off",
+        "react/jsx-indent": "off",
+        "import/first": "off",
+        "react/prefer-stateless-function": "off",
+        "react/require-default-props": "off",
+        "react/jsx-no-bind": "off",
+        "no-return-assign": "off"
+    }
+}
