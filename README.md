@@ -41,7 +41,7 @@ Start the development server (changes will now update live in browser)
 > npm run start
 ```
 
-To view your project, go to: [http://localhost:3000/](http://localhost:3000/)
+To view your project, go to: [http://localhost:8080/](http://localhost:8080/)
 
 To make a production build of the a static SPA
 
